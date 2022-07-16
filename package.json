@@ -1,0 +1,10 @@
+{
+  "name": "formation",
+  "description": "Easiest way to create and manage forms for CRMs",
+  "version": "0.1.0",
+  "author": "Veaceslav Cernei <cernei.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.25"
+  }
+}
